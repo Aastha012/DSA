@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Aastha012/DSA/tree/master/0037-sudoku-solver) |
 | [0435-non-overlapping-intervals](https://github.com/Aastha012/DSA/tree/master/0435-non-overlapping-intervals) |
 ## Dynamic Programming
 |  |
@@ -17,4 +18,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Aastha012/DSA/tree/master/0435-non-overlapping-intervals) |
+## Hash Table
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Aastha012/DSA/tree/master/0037-sudoku-solver) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Aastha012/DSA/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Aastha012/DSA/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Aastha012/DSA/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Aastha012/DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->

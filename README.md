@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Aastha012/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Aastha012/DSA/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Aastha012/DSA/tree/master/0051-n-queens) |
+| [0077-combinations](https://github.com/Aastha012/DSA/tree/master/0077-combinations) |
 ## Matrix
 |  |
 | ------- |
